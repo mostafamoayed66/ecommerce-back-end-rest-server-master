@@ -16,7 +16,7 @@ open git Bash and Enter the following commands :
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/mostafamoayed66/argavani.git
+$ git clone https://github.com/mostafamoayed66/ecommerce-back-end-rest-server-master.git
 
 # go into app's directory
 $ cd my-project
